@@ -1,3 +1,3 @@
 Mongodb = "mongodb+srv://dbGyft:Pass123.@cluster0.zunyj.mongodb.net/Webstore?retryWrites=true&w=majority"
-Github backend = https://github.com/Ochuware/SecondCW.git
+Github backend = https://github.com/Ochuware/SecondCW.git.
 git hub frontend = https://github.com/Ochuware/IndividualProject.git. 
